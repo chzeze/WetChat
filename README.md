@@ -16,9 +16,3 @@
 ### 开发者文档 ###
 
 - [微信官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
-
-### 最好的资源集 ###
-
-- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
-
-## Anyway, 欢迎PR ##
