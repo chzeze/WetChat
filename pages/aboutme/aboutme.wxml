@@ -1,0 +1,7 @@
+<!--aboutme.wxml-->
+<view class="container">
+    <view><image src="{{img}}" backgroup-size="cover"></image></view>
+    <view>{{name}}</view>
+    <view>{{text}}</view>
+    <view>联系方式:{{tel}}</view>
+</view>
