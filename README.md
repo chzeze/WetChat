@@ -1,14 +1,3 @@
-# CoderCalendar-WeApp
-#程序猿老黄历 for WeApp
-![](http://p2.sinaimg.cn/3628432097/180/55361381830174)
-
-天牛星异位,败走天狼、日星月辉,雨星宫执事无法、天雷远渡洋江之北,风起云散,贵猿面堂发黑乌云盖顶有不祥之兆,带俺给你算上一挂。
-
-算了，装不下去了，这是一个适合快速上手微信小程序代码，没有网络请求，依赖少，谁都能跑
-
-## How does it look like?
-
-![](http://7o4zmy.com1.z0.glb.clouddn.com/QQ20170105-134143@2x.png)
 
 ## How to run
     * AppID：选`无AppID`
@@ -33,10 +22,3 @@
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 
 ## Anyway, 欢迎PR ##
-
-## Thank to
- [Yiding He](http://sandbox.runjs.cn/show/ydp3it7b/)
-## License
-
-This project is available under the MIT license.
-
